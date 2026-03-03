@@ -1,0 +1,6 @@
+[submodule "ExpenseTrackerBackend"]
+	path = ExpenseTrackerBackend
+	url = https://github.com/Shreyas246a/ExpenseTracker-SpringBoot.git
+[submodule "ExpenseTrackerFrontend"]
+	path = ExpenseTrackerFrontend
+	url = https://github.com/Shreyas246a/ExpenseTracker-Frontend.git
